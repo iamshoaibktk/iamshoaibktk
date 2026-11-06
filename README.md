@@ -4,7 +4,12 @@
 
 `★ 5.0 on Fiverr` `6 free modules` `3 free themes` `10 languages`
 
-**[Hire me on Fiverr](https://www.fiverr.com/shoaibktk)** · **[WhatsApp](https://wa.me/923459016286)** · **[Email](mailto:iamshoaibktk@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/iamshoaibktk/)**
+<p>
+  <a href="https://www.fiverr.com/shoaibktk"><img src="https://img.shields.io/badge/Hire_me_on_Fiverr-%E2%98%85_5.0-c6f04d?style=for-the-badge&logo=fiverr&logoColor=c6f04d&labelColor=1b212c" alt="Hire me on Fiverr, rated 5.0"></a>
+  <a href="https://wa.me/923459016286"><img src="https://img.shields.io/badge/WhatsApp-1b212c?style=for-the-badge&logo=whatsapp&logoColor=c6f04d" alt="WhatsApp"></a>
+  <a href="mailto:iamshoaibktk@gmail.com"><img src="https://img.shields.io/badge/Email-1b212c?style=for-the-badge&logo=gmail&logoColor=c6f04d" alt="Email iamshoaibktk@gmail.com"></a>
+  <a href="https://www.linkedin.com/in/iamshoaibktk/"><img src="https://img.shields.io/badge/LinkedIn-1b212c?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2M2ZjA0ZCIgZD0iTTMgM2gxOHYxOEgzek03IDEwdjdoMi40di03ek04LjIgNi4yYTEuNCAxLjQgMCAxIDAgMCAyLjggMS40IDEuNCAwIDAgMCAwLTIuOHpNMTEuNCAxMHY3aDIuNHYtMy42YzAtMSAuNS0xLjYgMS4zLTEuNnMxLjIuNiAxLjIgMS42VjE3aDIuNHYtNC4yYzAtMi0xLjEtMy0yLjYtMy0xIDAtMS44LjUtMi4zIDEuMVYxMHoiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg==" alt="LinkedIn"></a>
+</p>
 
 Every module and theme here is free, open source and translated into English, French, Spanish, Italian, Polish, German, Czech, Dutch, Portuguese and Russian. Each one is built for PrestaShop 9.
 
