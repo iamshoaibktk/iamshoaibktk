@@ -1,5 +1,5 @@
 <p>
-  <a href="#free-prestashop-9-themes"><img src="assets/banner.png" width="100%" alt="Muhammad Shoaib: I build free PrestaShop 9 modules and themes, in 10 languages. 6 free modules, 3 free themes, rated 5.0 on Fiverr."></a>
+  <a href="#free-prestashop-9-themes"><img src="assets/banner-2.png" width="100%" alt="Muhammad Shoaib: I build free PrestaShop 9 modules and themes, in 10 languages. 6 free modules, 3 free themes, rated 5.0 on Fiverr."></a>
 </p>
 
 I'm Shoaib. I build PrestaShop modules and themes that are free, open source and translated into 10 languages: English, French, Spanish, Italian, Polish, German, Czech, Dutch, Portuguese and Russian. Each one is built for PrestaShop 9.
