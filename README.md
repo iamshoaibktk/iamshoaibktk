@@ -4,7 +4,7 @@
 
 I build custom modules, themes and store migrations for PrestaShop shops. I also publish my own PrestaShop 9 modules and themes here for free.
 
-`8 years of experience` `★ 5.0 Top Rated on Fiverr` `6 free modules` `4 free themes`
+`8 years of experience` `★ 5.0 Top Rated on Fiverr` `6 free modules` `5 free themes`
 
 <p>
   <a href="https://www.fiverr.com/shoaibktk"><img src="https://img.shields.io/badge/Hire_me_on_Fiverr-%E2%98%85_5.0-c6f04d?style=for-the-badge&logo=fiverr&logoColor=c6f04d&labelColor=1b212c" alt="Hire me on Fiverr, rated 5.0"></a>
@@ -20,13 +20,14 @@ Every free module and theme below is open source, built for PrestaShop 9 and tra
 Hummingbird child themes with a one-click demo in 10 languages and a live preview.
 
 <p>
+  <a href="https://github.com/iamshoaibktk/prestashop-theme-kestrel-leather"><img src="assets/theme-kestrel-leather.png" width="405" alt="Kestrel Leather: free PrestaShop 9 theme for leather goods and bag stores"></a>
   <a href="https://github.com/iamshoaibktk/prestashop-theme-stride-atelier"><img src="assets/theme-stride-atelier-v2.png" width="405" alt="Stride Atelier: free PrestaShop 9 theme for shoe and sneaker stores"></a>
   <a href="https://github.com/iamshoaibktk/prestashop-theme-little-sprout"><img src="assets/theme-little-sprout-v2.png" width="405" alt="Little Sprout: free PrestaShop 9 theme for baby and kids' clothing stores"></a>
   <a href="https://github.com/iamshoaibktk/prestashop-theme-northline-outfitters"><img src="assets/theme-northline-outfitters-v2.png" width="405" alt="Northline Outfitters: free PrestaShop 9 theme for outdoor clothing stores"></a>
   <a href="https://github.com/iamshoaibktk/prestashop-theme-maison-vellor"><img src="assets/theme-maison-vellor-v2.png" width="405" alt="Maison Vellor: free PrestaShop 9 theme for fashion boutiques"></a>
 </p>
 
-Live demos: [Stride Atelier](https://iamshoaibktk.github.io/prestashop-theme-stride-atelier/) · [Little Sprout](https://iamshoaibktk.github.io/prestashop-theme-little-sprout/) · [Northline Outfitters](https://iamshoaibktk.github.io/prestashop-theme-northline-outfitters/) · [Maison Vellor](https://iamshoaibktk.github.io/prestashop-theme-maison-vellor/)
+Live demos: [Kestrel Leather](https://iamshoaibktk.github.io/prestashop-theme-kestrel-leather/) · [Stride Atelier](https://iamshoaibktk.github.io/prestashop-theme-stride-atelier/) · [Little Sprout](https://iamshoaibktk.github.io/prestashop-theme-little-sprout/) · [Northline Outfitters](https://iamshoaibktk.github.io/prestashop-theme-northline-outfitters/) · [Maison Vellor](https://iamshoaibktk.github.io/prestashop-theme-maison-vellor/)
 
 ## Free PrestaShop 9 modules
 
