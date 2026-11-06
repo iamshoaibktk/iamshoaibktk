@@ -1,15 +1,12 @@
-<p>
-  <a href="#free-prestashop-9-themes"><img src="assets/banner-2.png" width="100%" alt="Muhammad Shoaib: I build free PrestaShop 9 modules and themes, in 10 languages. 6 free modules, 3 free themes, rated 5.0 on Fiverr."></a>
-</p>
+# Muhammad Shoaib
 
-I'm Shoaib. I build PrestaShop modules and themes that are free, open source and translated into 10 languages: English, French, Spanish, Italian, Polish, German, Czech, Dutch, Portuguese and Russian. Each one is built for PrestaShop 9.
+**I build free PrestaShop 9 modules and themes, in 10 languages.**
 
-<p>
-  <a href="https://www.fiverr.com/shoaibktk"><img src="assets/btn-fiverr.png" height="40" alt="Hire me on Fiverr, rated 5.0"></a>
-  <a href="https://wa.me/923459016286"><img src="assets/btn-whatsapp.png" height="40" alt="WhatsApp"></a>
-  <a href="mailto:iamshoaibktk@gmail.com"><img src="assets/btn-email.png" height="40" alt="Email iamshoaibktk@gmail.com"></a>
-  <a href="https://www.linkedin.com/in/iamshoaibktk/"><img src="assets/btn-linkedin.png" height="40" alt="LinkedIn"></a>
-</p>
+`★ 5.0 on Fiverr` `6 free modules` `3 free themes` `10 languages`
+
+**[Hire me on Fiverr](https://www.fiverr.com/shoaibktk)** · **[WhatsApp](https://wa.me/923459016286)** · **[Email](mailto:iamshoaibktk@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/iamshoaibktk/)**
+
+Every module and theme here is free, open source and translated into English, French, Spanish, Italian, Polish, German, Czech, Dutch, Portuguese and Russian. Each one is built for PrestaShop 9.
 
 ## Free PrestaShop 9 themes
 
