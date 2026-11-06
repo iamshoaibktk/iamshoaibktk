@@ -1,8 +1,10 @@
 # Muhammad Shoaib
 
-**I build free PrestaShop 9 modules and themes, in 10 languages.**
+**PrestaShop developer with 8 years of experience. Top Rated on Fiverr.**
 
-`★ 5.0 on Fiverr` `6 free modules` `3 free themes` `10 languages`
+I build custom modules, themes and store migrations for PrestaShop shops. I also publish my own PrestaShop 9 modules and themes here for free.
+
+`8 years of experience` `★ 5.0 Top Rated on Fiverr` `6 free modules` `3 free themes`
 
 <p>
   <a href="https://www.fiverr.com/shoaibktk"><img src="https://img.shields.io/badge/Hire_me_on_Fiverr-%E2%98%85_5.0-c6f04d?style=for-the-badge&logo=fiverr&logoColor=c6f04d&labelColor=1b212c" alt="Hire me on Fiverr, rated 5.0"></a>
@@ -11,7 +13,7 @@
   <a href="https://www.linkedin.com/in/iamshoaibktk/"><img src="https://img.shields.io/badge/LinkedIn-1b212c?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2M2ZjA0ZCIgZD0iTTMgM2gxOHYxOEgzek03IDEwdjdoMi40di03ek04LjIgNi4yYTEuNCAxLjQgMCAxIDAgMCAyLjggMS40IDEuNCAwIDAgMCAwLTIuOHpNMTEuNCAxMHY3aDIuNHYtMy42YzAtMSAuNS0xLjYgMS4zLTEuNnMxLjIuNiAxLjIgMS42VjE3aDIuNHYtNC4yYzAtMi0xLjEtMy0yLjYtMy0xIDAtMS44LjUtMi4zIDEuMVYxMHoiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg==" alt="LinkedIn"></a>
 </p>
 
-Every module and theme here is free, open source and translated into English, French, Spanish, Italian, Polish, German, Czech, Dutch, Portuguese and Russian. Each one is built for PrestaShop 9.
+Every free module and theme below is open source, built for PrestaShop 9 and translated into English, French, Spanish, Italian, Polish, German, Czech, Dutch, Portuguese and Russian.
 
 ## Free PrestaShop 9 themes
 
